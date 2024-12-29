@@ -9,7 +9,7 @@ I try to solve some mini problems that everyone can use like a puzzle in their w
 
 ## Notebooks
 ### Data Science
-* [notebook 0] (https://github.com/jiolo/AiBro/blob/main/DS/notebook_0.ipynb)
+* [notebook 0](https://github.com/jiolo/AiBro/blob/main/DS/notebook_0.ipynb)
 
 ### Machine Learning
 
