@@ -6,3 +6,12 @@ I had been come aroun with different problems which happened to repeat every now
 
 ## Problems
 I try to solve some mini problems that everyone can use like a puzzle in their work
+
+## Notebooks
+### Data Science
+* [notebook 0] (https://github.com/jiolo/AiBro/blob/main/DS/notebook_0.ipynb)
+
+### Machine Learning
+
+
+### Reinforcement Learning
